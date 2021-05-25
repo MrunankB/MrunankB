@@ -7,7 +7,7 @@
 - 🙍‍♂️ Make sure to follow me :D!
 
 ![GitHub followers](https://img.shields.io/github/followers/thecoder876?label=followers&style=flat)
-[![Website](https://img.shields.io/badge/website-thecoder876.github.io-blue)](https://FlashLeap.github.io "Visit my website")
+[![Website](https://img.shields.io/badge/website-FlashLeap.github.io-blue)](https://FlashLeap.github.io "Visit my website")
 
 <!---
 BATHILL/BATHILL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
