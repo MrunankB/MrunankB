@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me : mrunank.bathe@gmail.com
 - 😊 I am a friendly person
-- 📓 I am a 15 year old Web Deeloper with more than average coding skills
+- 📓 I am a 15 year old Web Devloper with more than average coding skills
 - 🙍‍♂️ Make sure to follow me :D!
 
 
