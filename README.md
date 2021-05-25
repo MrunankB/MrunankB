@@ -7,7 +7,7 @@
 - 🙍‍♂️ Make sure to follow me :D!
 
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=FlashLeap&theme=darkhub)
+![Trophies](https://github-profile-trophy.vercel.app/?username=FlashLeap&theme=gruvbox)
 
 ![GitHub followers](https://img.shields.io/github/followers/FlashLeap?label=followers&style=flat)
 [![Website](https://img.shields.io/badge/website-FlashLeap.github.io-blue)](https://FlashLeap.github.io "Visit my website")
