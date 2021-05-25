@@ -13,7 +13,7 @@
 [![Website](https://img.shields.io/badge/website-FlashLeap.github.io-blue)](https://FlashLeap.github.io "Visit my website")
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlashLeap&theme=dark&count_private=true&custom_title=Top%20Languages)
-![Stats](https://github-readme-stats.vercel.app/api?username=FlashLeap&theme=dark&custom_title=Stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=FlashLeap&theme=radical&custom_title=Stats)
 
 
 <!---
