@@ -12,8 +12,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/FlashLeap?label=followers&style=flat)
 [![Website](https://img.shields.io/badge/website-FlashLeap.github.io-blue)](https://FlashLeap.github.io "Visit my website")
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlashLeap&theme=radical&count_private=true&custom_title=Top%20Languages)
-![Stats](https://github-readme-stats.vercel.app/api?username=FlashLeap&theme=radical&custom_title=Stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlashLeap&theme=gruvbox&count_private=true&custom_title=Top%20Languages)
+![Stats](https://github-readme-stats.vercel.app/api?username=FlashLeap&theme=gruvbox&custom_title=Stats)
 
 
 <!---
