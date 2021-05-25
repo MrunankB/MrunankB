@@ -6,6 +6,9 @@
 - 📓 I am currently studying in 8th Grade
 - 🙍‍♂️ Make sure to follow me :D!
 
+![GitHub followers](https://img.shields.io/github/followers/thecoder876?label=followers&style=flat)
+[![Website](https://img.shields.io/badge/website-thecoder876.github.io-blue)](https://FlashLeap.github.io "Visit my website")
+
 <!---
 BATHILL/BATHILL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
