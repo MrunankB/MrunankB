@@ -12,7 +12,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/FlashLeap?label=followers&style=flat)
 [![Website](https://img.shields.io/badge/website-FlashLeap.github.io-blue)](https://FlashLeap.github.io "Visit my website")
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlashLeap&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Mrunank Bathe's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=FlashLeap)](https://github.com/anuraghazra/github-readme-stats)
 ![Stats](https://github-readme-stats.vercel.app/api?username=FlashLeap&theme=gruvbox&custom_title=Stats)
 
 
