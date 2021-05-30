@@ -6,6 +6,7 @@
 - 📓 I am a 15 year old Web Developer with more than average coding skills
 - 🙍‍♂️ Make sure to follow me :D!
 
+<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=FlashLeap&theme=gruvbox)
 
