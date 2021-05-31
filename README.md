@@ -17,8 +17,6 @@
 
 - 🙍‍♂️ Make sure to follow me :D!
 
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00F7E4&center=false&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Content+Creator/Writer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=FlashLeap&theme=gruvbox)
 
