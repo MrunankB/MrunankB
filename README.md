@@ -9,7 +9,7 @@
 - 😊 I am a friendly person
 - 📓 I am a 15 year old Web Developer with more than average coding skills
 - 🙍‍♂️ Make sure to follow me :D!
-<img align="right" alt="Coding" width="400" src="hhhhh.gif" />
+<img align="right" alt="Coding" width="400" src="https://im3.ezgif.com/tmp/ezgif-3-33715f096a20.gif" />
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00F7E4&center=false&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Content+Creator/Writer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
