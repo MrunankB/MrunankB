@@ -6,7 +6,7 @@
 - 📓 I am a 15 year old Web Developer with more than average coding skills
 - 🙍‍♂️ Make sure to follow me :D!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Content+Creator/Writer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00F7E4&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Content+Creator/Writer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=FlashLeap&theme=gruvbox)
 
 ![GitHub followers](https://img.shields.io/github/followers/FlashLeap?label=followers&style=flat)
