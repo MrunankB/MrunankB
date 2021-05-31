@@ -3,11 +3,17 @@
 
 <img align="right" alt="Coding" width="400" src="jjj.gif" />
 - 👋 Hi, I’m Mrunank
+- 
 - 👀 My hobby is coding and basketball
+- 
 - 🌱 I’m currently learning Python
+- 
 - 📫 How to reach me : mrunank.bathe@gmail.com
+- 
 - 😊 I am a friendly person
+- 
 - 📓 I am a 15 year old Web Developer with more than average coding skills
+- 
 - 🙍‍♂️ Make sure to follow me :D!
 
 
