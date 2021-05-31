@@ -1,7 +1,7 @@
 
 
 
-<img align="right" alt="Coding" width="200" src="jjj.gif" />
+<img align="right" alt="Coding" width="300" src="jjj.gif" />
 
 - 👋 Hi, I’m Mrunank
 
