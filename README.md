@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" width="300" src="JJJJJJJ.png" />
+
 
 <img align="right" alt="Coding" width="300" src="jjj.gif" />
 
