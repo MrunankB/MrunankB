@@ -1,5 +1,5 @@
 <img align="center" alt="Coding" width="300" src="JJJJJJJ.png" />
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/84667872/120890614-97ec5380-c621-11eb-94fc-9ad9f3a72773.png" />
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/84667872/120891028-fadeea00-c623-11eb-8320-c40d5ceb9d1a.gif" />
 
 - 👋 Hi, I’m Mrunank
 
