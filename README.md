@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="300" src="JJJJJJJ.png" />
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/84667872/120890614-97ec5380-c621-11eb-94fc-9ad9f3a72773.png" />
+<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/84667872/120890614-97ec5380-c621-11eb-94fc-9ad9f3a72773.png" />
 
 - 👋 Hi, I’m Mrunank
 
@@ -15,7 +15,6 @@
 - 📓 I am a 15 year old Web Developer with more than average coding skills
 
 - 🙍‍♂️ Make sure to follow me :D!
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00F7E4&center=false&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Content+Creator/Writer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=FlashLeap&theme=gruvbox)
