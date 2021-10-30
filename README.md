@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="300" src="JJJJJJJ.png" />
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/84667872/120891028-fadeea00-c623-11eb-8320-c40d5ceb9d1a.gif" />
 
-- 👋 Hi, I’m Mrunank
+- 👋 Hi, I’m FlashLeap!
 
 - 👀 My hobby is coding and basketball
 
